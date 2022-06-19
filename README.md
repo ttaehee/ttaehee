@@ -1,7 +1,7 @@
 <div align="center">
-##Hi there 👋
+Hi there! 👋
 
-##Tech stacks
+☁️Tech stacks💨
 
 Techs i've used least one <br/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-5BC4EE.svg?&style=flat-square,&logo=Java&logoColor=white"/> 
