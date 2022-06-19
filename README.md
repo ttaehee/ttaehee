@@ -13,4 +13,6 @@ Techs i've used least one <br/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square,&logo=Python&logoColor=white"/>
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square,&logo=Amazon AWS&logoColor=white"/> <br/>
 
+<br/><br/><hr/><br/><br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaehee&show_icons=true&theme=tokyonight)
