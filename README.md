@@ -16,5 +16,5 @@ Techs i've used least one <br/>
 
 <br/>#<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaehee&show_icons=true&theme=onedark)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaehee&show_icons=true&theme=buefy)<br/>
 </div>
