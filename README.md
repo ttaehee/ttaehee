@@ -1,7 +1,7 @@
 <div align="center">
 Hi there! 👋
 
-☁️Tech stacks💨
+:tangerine:Tech stacks:blossom:
 
 Techs i've used least one <br/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-5BC4EE.svg?&style=flat-square,&logo=Java&logoColor=white"/> 
