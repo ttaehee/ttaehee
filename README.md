@@ -1,5 +1,7 @@
 <div align="center">
 Hi there! 👋
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttaehee&count_bg=%232E51EF&title_bg=%231B1919&icon=icq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 :tangerine:Tech stacks:blossom:
 
