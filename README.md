@@ -5,7 +5,7 @@ Hi there! 👋
 
 :tangerine:Tech stacks:blossom:
 
-Techs i've used least one <br/>
+Techs i've used at least once <br/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-5BC4EE.svg?&style=flat-square,&logo=Java&logoColor=white"/> 
 <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square,&logo=HTML5&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-FDC43E.svg?&style=flat-square,&logo=JavaScript&logoColor=white"/>
