@@ -17,8 +17,7 @@ Techs i've used at least once <br/>
 <img src="https://img.shields.io/badge/-Amazon EC2-FF8282.svg?style=flat-square,&logo=Amazon EC2&logoColor=white">
 <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-9266CC.svg?&style=flat-square,&logo=jQuery&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-FDC43E.svg?&style=flat-square,&logo=JavaScript&logoColor=white"/>
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-F08705.svg?&style=flat-square,&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square,&logo=Bootstrap&logoColor=white"> <br/>
+<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-F08705.svg?&style=flat-square,&logo=CSS3&logoColor=white"/><br/>
 
 <br/>#<br/>
 
